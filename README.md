@@ -1,8 +1,34 @@
-# React + Vite
+# 🚀 React Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, fully responsive **Landing Page** built with **React & Tailwind CSS**.
 
-Currently, two official plugins are available:
+## 📌 Features
+✅ Beautiful and responsive UI  
+✅ Built with **React** and **Tailwind CSS**   
+✅ Easy to customize  
+✅ Smooth animations  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- **React** (Frontend framework)
+- **Tailwind CSS** (Styling)
+- **React Router** (For navigation)
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the Repository
+```sh
+git clone https://github.com/ShubhamTyagi000/landing_page.git
+cd landing_page
+```
+
+### 2️⃣ Install Dependencies
+```sh
+npm install
+```
+
+### 3️⃣ Start the Development Server
+```sh
+npm run dev
+```
+Your landing page will be available at `http://localhost:5173`
+
